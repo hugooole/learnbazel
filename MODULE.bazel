@@ -5,3 +5,4 @@ module(
 )
 
 bazel_dep(name = "spdlog", version = "1.15.3")
+bazel_dep(name = "catch2", version = "3.10.0")
