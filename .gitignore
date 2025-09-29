@@ -1,0 +1,17 @@
+/bazel-*
+/external
+.vscode
+.idea
+.repo
+Data
+/compile_commands.json
+.*_bash_history
+.*_zsh_history
+.clwb/
+.ijwb/
+.aswb
+.clangd/*
+/.cache/
+*.obj
+*.pyc
+tmp/
