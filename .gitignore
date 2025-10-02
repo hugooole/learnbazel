@@ -15,3 +15,5 @@ Data
 *.obj
 *.pyc
 tmp/
+
+MODULE.bazel.lock
